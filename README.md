@@ -3,15 +3,15 @@ This program is a Python application that uses TensorFlow to create and train a 
 
 1) Loading the CIFAR-10 dataset: Use TensorFlow to load the CIFAR-10 dataset, which contains images of 10 different object categories such as plane, car, bird, cat, deer, cane, frog, horse, ship and truck.
 
-2)CNN model definition and training: Use TensorFlow and Keras to define a convolutional neural network (CNN) model with several convolutional and fully connected layers. The model is then compiled and trained using the fit method
+2) CNN model definition and training: Use TensorFlow and Keras to define a convolutional neural network (CNN) model with several convolutional and fully connected layers. The model is then compiled and trained using the fit method
 
-3)Image prediction: After training the model, the program asks the user to specify the path of a directory containing images to be predicted. It then loads each image from the directory, preprocesses them, and predicts them using the trained model. Finally, it displays the predicted image along with the predicted class.
+3) Image prediction: After training the model, the program asks the user to specify the path of a directory containing images to be predicted. It then loads each image from the directory, preprocesses them, and predicts them using the trained model. Finally, it displays the predicted image along with the predicted class.
 
-4)load_and_preprocess_image function: An auxiliary function that loads an image from a specified path, resizes it to the required dimensions (32x32 pixels), and normalizes it so that the pixel values ​​are between 0 and 1.
+4) load_and_preprocess_image function: An auxiliary function that loads an image from a specified path, resizes it to the required dimensions (32x32 pixels), and normalizes it so that the pixel values ​​are between 0 and 1.
 
-5)Interpretation of predictions: The model predictions are interpreted using a list of possible object classes in the CIFAR-10 dataset, and the predicted class for each image is displayed.
+5) Interpretation of predictions: The model predictions are interpreted using a list of possible object classes in the CIFAR-10 dataset, and the predicted class for each image is displayed.
 
-6)Displaying predicted images: Using Matplotlib, the program displays each predicted image along with the predicted class.
+6) Displaying predicted images: Using Matplotlib, the program displays each predicted image along with the predicted class.
 
 ## Possible Improvements
 
