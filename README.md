@@ -26,3 +26,7 @@ This program provides a solid foundation for image classification using convolut
 4. **In-depth documentation**: Add more detailed documentation to the source code and README.md file to clearly explain how to use the program, its requirements, and how to potentially extend or modify it.
 
 These are just a few possible improvements, and the program could benefit from further optimizations and refinements based on specific user needs and project goals.
+
+** If you are interested in contributing to the development of this program or have ideas for improvements, you are welcome! To collaborate, simply contact us via GitHub by submitting a pull request or opening a new edition in the repository. We are open to suggestions, bug fixes, and new features that can make the program even better for the developer and user community.
+
+** Stay updated on future developments and improvements by following the repository on GitHub and participating in the discussion on the project roadmap and goals.
